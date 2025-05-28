@@ -38,7 +38,7 @@ require (
 	golang.org/x/crypto v0.36.0
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
 	gopkg.in/op/go-logging.v1 v1.0.0-20160211212156-b2cb9fa56473
-	helm.sh/helm/v3 v3.16.0
+	helm.sh/helm/v3 v3.17.3
 	k8s.io/api v0.31.9
 	k8s.io/apiextensions-apiserver v0.31.8
 	k8s.io/apimachinery v0.31.9
