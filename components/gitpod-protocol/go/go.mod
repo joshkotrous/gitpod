@@ -11,7 +11,7 @@ require (
 
 require (
 	github.com/cenkalti/backoff/v4 v4.1.3
-	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
 )
 
 replace github.com/google/addlicense => ../../../dev/addlicense // leeway
