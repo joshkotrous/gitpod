@@ -3,7 +3,7 @@ module github.com/gitpod-io/gitpod/components/spicedb/codegen
 go 1.22
 
 require (
-	github.com/authzed/spicedb v1.24.0
+	github.com/authzed/spicedb v1.37.1
 	gopkg.in/yaml.v2 v2.4.0
 )
 
