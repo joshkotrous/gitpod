@@ -36,7 +36,7 @@ require (
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spf13/cobra v1.8.1
 	golang.org/x/crypto v0.36.0
-	golang.org/x/net v0.26.0
+	golang.org/x/net v0.33.0
 	golang.org/x/sync v0.12.0
 	golang.org/x/sys v0.31.0
 	golang.org/x/term v0.30.0
