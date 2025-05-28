@@ -34,7 +34,7 @@ require (
 	golang.org/x/oauth2 v0.22.0
 	google.golang.org/grpc v1.65.0
 	google.golang.org/protobuf v1.34.2
-	gopkg.in/square/go-jose.v2 v2.6.0
+	gopkg.in/go-jose/go-jose.v2 v2.6.3
 	gorm.io/gorm v1.25.1
 )
 
