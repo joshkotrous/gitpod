@@ -6,7 +6,7 @@ toolchain go1.23.3
 
 require (
 	github.com/desertbit/timer v0.0.0-20180107155436-c41aec40b27f // indirect
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/golang-jwt/jwt v4.5.2
 	github.com/gitpod-io/gitpod/gitpod-protocol v0.0.0-00010101000000-000000000000
 	github.com/gitpod-io/gitpod/local-app/api v0.0.0-00010101000000-000000000000
 	github.com/gitpod-io/gitpod/supervisor/api v0.0.0-00010101000000-000000000000
