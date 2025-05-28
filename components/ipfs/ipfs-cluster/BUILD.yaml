@@ -1,9 +1,0 @@
-packages:
-  - name: docker
-    type: docker
-    config:
-      dockerfile: leeway.Dockerfile
-      buildArgs:
-        VERSION: ${ipfsClusterVersion}
-      image:
-        - ${imageRepoBase}/ipfs/ipfs-cluster:${ipfsClusterVersion}
