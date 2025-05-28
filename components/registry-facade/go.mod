@@ -6,7 +6,7 @@ toolchain go1.23.3
 
 require (
 	github.com/alicebob/miniredis/v2 v2.32.1
-	github.com/containerd/containerd v1.6.36
+	github.com/containerd/containerd v1.6.38
 	github.com/distribution/reference v0.5.0
 	github.com/docker/cli v25.0.1+incompatible
 	github.com/docker/distribution v2.8.3+incompatible
