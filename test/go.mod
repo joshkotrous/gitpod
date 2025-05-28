@@ -17,7 +17,7 @@ require (
 	github.com/gitpod-io/gitpod/ws-manager/api v0.0.0-00010101000000-000000000000
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/google/go-github/v42 v42.0.0
-	github.com/google/nftables v0.1.0
+	github.com/google/nftables v0.2.0
 	github.com/google/uuid v1.6.0
 	github.com/helloyi/go-sshclient v1.1.1
 	github.com/mitchellh/go-ps v1.0.0
